@@ -1,0 +1,18 @@
+{
+  "proclamation": "系統公告",
+  "notification": "個人通知",
+  "text_follow": "{{name}} 開始追蹤你",
+  "text_like": "{{name}} 喜歡了你的{{postType}}「{{title}}」",
+  "text_replyLike": "{{name}} 喜歡了你{{postType}}「{{title}}」中回覆的「{{reply}}」",
+  "text_saved": "{{name}} 收藏了你的「{{title}}」",
+  "text_reply": "{{name}} 回覆了{{postType}}「{{title}}」 說：「{{reply}}」",
+  "text_replyb": "{{name}} 回應了{{postType}}「{{title}}」的回應串，說：「{{reply}}」",
+  "text_replyImg": "{{name}} 傳送了一張圖片回覆了你的{{postType}}「{{title}}」",
+  "text_replybImg": "{{name}} 傳送了一張圖片回應了{{postType}}「{{title}}」的回應串",
+  "text_replyAll": "{{name}} 回應了{{postType}}「{{title}}」的回應串，說：「{{reply}}」",
+  "text_image": "圖片",
+  "type_post": "貼文",
+  "type_topic": "收藏",
+  "type_trend": "話題",
+  "type_place": "地點"
+}

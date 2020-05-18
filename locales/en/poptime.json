@@ -1,0 +1,11 @@
+{
+  "publish_time": "發布",
+  "edited_time": "最後編輯",
+  "just": "just",
+  "mins_ago": "{{diffMinutes}} mins ago",
+  "n_hours_ago": "{{diffHours}} hour{{s}} ago",
+  "n_days_ago": "{{diffDays}} day{{s}} ago",
+  "n_weeks_ago": "{{diffWeeks}} week{{s}} ago",
+  "n_months_ago": "{{diffMonths}} month{{s}} ago",
+  "n_years_ago": "{{diffDays}} year{{s}} ago"
+}

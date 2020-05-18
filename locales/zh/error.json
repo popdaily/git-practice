@@ -1,0 +1,14 @@
+{
+  "PopDaily": "PopDaily",
+  "發生不明錯誤，請 Email 我們，我們會盡快修復！": "發生不明錯誤，請 Email 我們，我們會盡快修復！",
+  "或是": "或是",
+  "回到首頁": "回到首頁",
+  "noInputError": "請選擇檔案",
+  "imageLimitError": "超過選擇上限. 你一次只能上傳{{limit}張圖片.",
+  "imageTypeError": "{{fileName}} 檔案格式不支援.",
+  "fileSizeMinimumError": "{{fileName}} 檔案大小低於限制{{size}}.",
+  "fileSizeExceedsError": "{{fileName}} 檔案大小超過限制{{size}}.",
+  "error-post": "現在沒有內容啦～",
+  "error-404": "This page could not be found",
+  "error-502": "Bad Gateway"
+}
