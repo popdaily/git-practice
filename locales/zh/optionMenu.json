@@ -13,7 +13,7 @@
   "more_sanction": "制裁文章",
   "close": "關閉",
   "alert_copy": "已複製至剪貼簿",
-  "confirmReport": "是否檢舉此{{type}}?",
+  "confirmReport": "你真 D 檢舉此{{type}}嗎？",
   "type_post": "文章",
   "type_user": "用戶",
   "type_place": "地點",
